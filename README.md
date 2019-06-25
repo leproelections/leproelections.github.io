@@ -1,5 +1,5 @@
-[latest election](https://leproelections.github.io/pages/2019-06-19.html)  
-past elections list:  
+[Выборы от 2019-06-19](https://leproelections.github.io/pages/2019-06-19.html)  
+В предыдущих сериях:  
 [2018-12-12](https://leproelections.github.io/pages/2018-12-12.html)  
 [2018-12-19](https://leproelections.github.io/pages/2018-12-19.html)  
 [2018-12-26](https://leproelections.github.io/pages/2018-12-26.html)  
@@ -27,4 +27,3 @@ past elections list:
 [2019-05-29](https://leproelections.github.io/pages/2019-05-29.html)  
 [2019-06-05](https://leproelections.github.io/pages/2019-06-05.html)  
 [2019-06-12](https://leproelections.github.io/pages/2019-06-12.html)  
-[2019-06-19](https://leproelections.github.io/pages/2019-06-19.html)  
