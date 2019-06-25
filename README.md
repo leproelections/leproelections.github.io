@@ -27,3 +27,4 @@
 [2019-05-29](https://leproelections.github.io/pages/2019-05-29.html)  
 [2019-06-05](https://leproelections.github.io/pages/2019-06-05.html)  
 [2019-06-12](https://leproelections.github.io/pages/2019-06-12.html)  
+[2019-06-19.html](https://leproelections.github.io/pages/2019-06-19.html.html)  
