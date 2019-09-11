@@ -1,5 +1,6 @@
-[Выборы от 2019-09-04](https://leproelections.github.io/pages/2019-09-04.html)  
+[Выборы от 2019-09-11](https://leproelections.github.io/pages/2019-09-11.html)  
 В предыдущих сериях:  
+[2019-09-04](https://leproelections.github.io/pages/2019-09-04.html)  
 [2019-08-28](https://leproelections.github.io/pages/2019-08-28.html)  
 [2019-08-21](https://leproelections.github.io/pages/2019-08-21.html)  
 [2019-08-14](https://leproelections.github.io/pages/2019-08-14.html)  
