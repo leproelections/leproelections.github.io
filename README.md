@@ -1,5 +1,6 @@
-[Выборы от 2019-11-27](https://leproelections.github.io/pages/2019-11-27.html)  
+[Выборы от 2019-12-04](https://leproelections.github.io/pages/2019-12-04.html)  
 В предыдущих сериях:  
+[2019-11-27](https://leproelections.github.io/pages/2019-11-27.html)  
 [2019-11-20](https://leproelections.github.io/pages/2019-11-20.html)  
 [2019-11-13](https://leproelections.github.io/pages/2019-11-13.html)  
 [2019-11-06](https://leproelections.github.io/pages/2019-11-06.html)  
