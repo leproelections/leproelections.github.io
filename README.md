@@ -1,5 +1,6 @@
-[Выборы от 2020-08-26](https://leproelections.github.io/pages/2020-08-26.html)  
+[Выборы от 2020-09-02](https://leproelections.github.io/pages/2020-09-02.html)  
 В предыдущих сериях:  
+[2020-08-26](https://leproelections.github.io/pages/2020-08-26.html)  
 [2020-08-19](https://leproelections.github.io/pages/2020-08-19.html)  
 [2020-08-12](https://leproelections.github.io/pages/2020-08-12.html)  
 [2020-08-05](https://leproelections.github.io/pages/2020-08-05.html)  
